@@ -1,11 +1,11 @@
 ## Hi there 👋
 My name is anggito wibisono sulistyo putro, a full stack software engineer. skilled with many stack techs. now focusing on backend (golang). i have create some experimental projects alone or with my friends
 
-🔭 I'm currently working on PT KANO TEKNOLOGI UTAMA as Senior Software Engineer
-🌱 I'm currently learning how to optimize code, query and lot of things.
-📫 How to reach me: 
+- 🔭 I'm currently working on PT KANO TEKNOLOGI UTAMA as Senior Software Engineer
+- 🌱 I'm currently learning how to optimize code, query and lot of things.
+- 📫 How to reach me: 
     email: anggitowibisono12@gmail.com
-⚡ Fun fact: i love gaming, and still play dota until know, fell free to chat with me if want to play with me.
+- ⚡ Fun fact: i love gaming, and still play dota until know, fell free to chat with me if want to play with me.
 
 
 <!--

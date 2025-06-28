@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is anggito wibisono sulistyo putro, a full stack software engineer. skilled with many stack techs. now focusing on backend (golang).
 
-- 🔭 I'm currently working on PT KANO TEKNOLOGI UTAMA as Senior Software Engineer
+- 🔭 I'm currently working on PT SARANA PACTINDO as Banking Middleware Developer
 - 🌱 I'm currently learning TensorFlow, GraphQL. i created repo with my friends to learn graphql js , 
 - 📫 How to reach me: 
     email: anggitowibisono12@gmail.com

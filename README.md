@@ -5,7 +5,7 @@ My name is anggito wibisono sulistyo putro, a full stack software engineer. skil
 - 🌱 I'm currently learning TensorFlow, GraphQL. i created repo with my friends to learn graphql js , 
 - 📫 How to reach me: 
     email: anggitowibisono12@gmail.com
-- ⚡ Fun fact: i love gaming, and still play dota until know, fell free to chat with me if want to play with me.
+- ⚡ Fun fact: i love gaming, and still play dota until now, fell free to chat with me if want to play with me.
 
 
 <!--
